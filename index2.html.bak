@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  
+  <title>Document</title>
+ </head>
+ <body>
+ <h1><ins>Personal details</ins></h1>
+ <table>
+ <tr>
+ <td><strong>Fathers Name</strong></td>
+ <td>:</td>
+ <td>Srinivasarao</td>
+ </tr>
+  <tr>
+ <td><strong>Date of Birth</strong></td>
+ <td>:</td>
+ <td>07-01-1998</td>
+ </tr>
+  <tr>
+ <td><strong>Nationality</strong></td>
+
+ <td>:</td>
+ <td>Indian</td>
+ </tr>
+  <tr>
+ <td><strong>Marital Status</strong></td>
+ <td>:</td>
+ <td>Single</td>
+ </tr>
+  <tr>
+ <td><strong>Address</strong></td>
+ <td>:</td>
+ <td>5-10</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>Tatakuntla,Vissannapeta(Mandal)</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>Krishna(Dt),Andhrapreadesh</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ <td>521215</td>
+ </tr>
+ 
+ 
+ </table>
+
+  
+ </body>
+</html>
